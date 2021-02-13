@@ -1,2 +1,3 @@
-# GCP_file_processing
-The file processing related with GCP on jupyter, it concerns also sending files to aws s3 bucket
+
+The is related with GCP, aws, shell script and google sheet scirpt. It is a combination of personal projects in an internship
+
